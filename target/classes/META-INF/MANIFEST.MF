@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: InvoiceMicroService
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: johnp
+Implementation-Vendor-Id: com.newt
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://projects.spring.io/spring-boot/InvoiceMicro
+ Service/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
